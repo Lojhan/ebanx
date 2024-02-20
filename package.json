@@ -1,0 +1,16 @@
+{
+  "name": "ebanx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "bun --bun test",
+    "start": "bun --bun src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/bun": "^1.0.6"
+  }
+}
